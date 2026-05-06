@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://PurushottamBarai.github.io/Password-Vault/sitemap.xml
